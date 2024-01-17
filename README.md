@@ -23,6 +23,7 @@ Configuration for a Hackintosh on a Lenovo IdeaPad S340-15IWL running macOS Sono
 
 ### Working
 - Screen with smooth brightness setting
+- Touchpad with multipoint
 - Wifi
 - Bluetooth
 - Airdrop
