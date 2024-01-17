@@ -4,13 +4,13 @@
 Configuration for a Hackintosh on a Lenovo IdeaPad S340-15IWL running macOS Sonoma using OpenCore 0.9.7
 
 ### Hardware
-CPU: Intel i7-8565U (Whiskey Lake Q3 2018)
-GPU: Intel UHD 620 / MX230
-Chipset: Intel Whiskey Lake-U IMC
-Input: I2C
-Audio Codec: Intel Cannon Point-LP PCH - cAVS
-Network Controller: Dell DW1820a BCM94350ZAE (swapped)
-SSD: WD SN730 512GB
+- CPU: Intel i7-8565U (Whiskey Lake Q3 2018)
+- GPU: Intel UHD 620 / MX230
+- Chipset: Intel Whiskey Lake-U IMC
+- Input: I2C
+- Audio Codec: Intel Cannon Point-LP PCH - cAVS
+- Network Controller: Dell DW1820a BCM94350ZAE (swapped)
+- SSD: WD SN730 512GB (swapped)
 
 ### Installation process
 1. Change SSD and Network Card
