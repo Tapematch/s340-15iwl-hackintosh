@@ -38,3 +38,6 @@ SSD: WD SN730 512GB
 - Fingerprint Scanner
 - Sidecar
 - Unlock with Apple Watch
+
+![info screenshot](https://github.com/Tapematch/s340-15iwl-hackintosh/blob/06ccb9acb2d8914fa37e94ea305831a79705f997/Screenshots/info.png)
+![settings screenshot](https://github.com/Tapematch/s340-15iwl-hackintosh/blob/06ccb9acb2d8914fa37e94ea305831a79705f997/Screenshots/settings.png)
