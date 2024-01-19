@@ -26,6 +26,7 @@ Configuration for a Hackintosh on a Lenovo IdeaPad S340-15IWL running macOS Sono
 - Touchpad with multipoint
 - Wifi
 - Bluetooth
+- HDMI Video out
 - Airdrop
 - Audio
 - Microphone
